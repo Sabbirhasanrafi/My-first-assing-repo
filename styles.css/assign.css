@@ -24,21 +24,47 @@
 
 .icon-header{
     text-align: center;
+    margin-top:600 px;
+    
 }
 .icon-section{
     display: flex;
     gap: 150px;
-margin: 100px;
-  margin-right: 400px;
+ padding: 200px;
 }
 
 /* forth section */
 .container2{
     display: flex;
 }
+
+/* be right */
+
 .bottom-left{
-     
     position: absolute;
-  bottom: 8px;
-  left: 16px;
+     top: 2350px;
+    right: 1200px;
+   
+}
+#grad{
+    /* background-image: url(images/gradient1.png); */
+      background-image: linear-gradient(#005FAC);
+}
+
+.you-tube{
+    display: flex;
+}
+.last-mission{
+    display: flex;
+    gap: 400px;
+    background-color: black;
+    color: white;
+    padding: 200px;
+    margin-top: 5px;
+}
+.btn-primaryd{
+    color: blue;
+     margin-top:20px;
+     padding: 18px 25px;
+     background-color: white;
 }
