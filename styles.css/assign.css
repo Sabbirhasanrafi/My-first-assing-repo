@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+.top-right{
+     position: absolute;
+     top: 300px;
+     right: 150px;
+}
+.btn-primary{
+    padding: 18px 25px;
+}
