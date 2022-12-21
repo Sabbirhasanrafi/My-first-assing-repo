@@ -3,7 +3,7 @@
 }
 .top-right{
      position: absolute;
-     top: 300px;
+    top: 300px;
      right: 150px;
 }
 .btn-primary{
@@ -35,7 +35,10 @@ margin: 100px;
 /* forth section */
 .container2{
     display: flex;
+}
+.bottom-left{
+     
     position: absolute;
-     top: 300px;
-     right: 150px;
+  bottom: 8px;
+  left: 16px;
 }
