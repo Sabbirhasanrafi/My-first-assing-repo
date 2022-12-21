@@ -19,3 +19,23 @@
 .second-container-parag{
     margin-top: 300px;
 }
+
+/* icon section */
+
+.icon-header{
+    text-align: center;
+}
+.icon-section{
+    display: flex;
+    gap: 150px;
+margin: 100px;
+  margin-right: 400px;
+}
+
+/* forth section */
+.container2{
+    display: flex;
+    position: absolute;
+     top: 300px;
+     right: 150px;
+}
