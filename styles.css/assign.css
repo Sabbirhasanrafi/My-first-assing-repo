@@ -9,3 +9,13 @@
 .btn-primary{
     padding: 18px 25px;
 }
+.second-container{
+    display: flex;
+    gap: 250px;
+}
+.second-container-images{
+    position: relative;
+}
+.second-container-parag{
+    margin-top: 300px;
+}
